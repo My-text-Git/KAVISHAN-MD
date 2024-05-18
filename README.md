@@ -21,7 +21,7 @@
 #### SETUP 
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Kavishan0/KAVISHAN-MD/fork) It***
-***2.`Get Session ID` by [`SCANING QR`](https://kavishan-qr.onrender.com/) 
+***2.`Get Session ID` by [`SCANING QR`](https://kavishan-qr-2.onrender.com/) 
 
 *-Copy The Session ID to paste it in Heroku*
 
