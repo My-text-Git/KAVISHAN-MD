@@ -65,7 +65,7 @@
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On Instagram**](I'm on Instagram as @kalana_kavishan. Install the app to follow my photos and videos. https://www.instagram.com/kalana_kavishan?igsh=YzljYTk1ODg3Zg==)
+- [**On Instagram**](https://www.instagram.com/kalana_kavishan?igsh=YzljYTk1ODg3Zg==)
 - [**Via WhatsApp**](https://wa.me/94788017991)
 
 ***
