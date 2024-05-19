@@ -63,10 +63,12 @@
 -Enjoy the diverse features of the KAVISHAN-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
-### DEVELOPER:
-**GET In Touch with The Owner**
-- [**On Instagram**](https://www.instagram.com/kalana_kavishan?igsh=YzljYTk1ODg3Zg==)
-- [**Via WhatsApp**](https://wa.me/94788017991)
+## 👑 **`KAVISHAN-MD BOT OWNERS,`** 👑
+
+
+   <a href="https://github.com/kavishan0/"><img src="https://telegra.ph/file/d4897e32ae51d7d69cad9.jpg" width=80 height=80></a>   
+
+|**[`cyber kaviyh`](https://github.com/kavishan0
 
 ***
 
