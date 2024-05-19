@@ -11,10 +11,11 @@
 <a href="https://github.com/Kavishan0/KAVISHAN-MD"><img title="Author" src="https://img.shields.io/badge/KAVISHAN_MD-black?style=for-the-badge&logo=github"></a> 
 <p/>
 <p align="center">
-<a href="https://github.com/KAVISHAN-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Kavishan0?label=Followers&style=social"></a>
-<a href="https://github.com/Kavishan0/KAVISHAN-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Kavishan0/KAVISHAN-MD?&style=social"></a>
-<a href="https://github.com/Kavishan0/KAVISHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kavishan0/KAVISHAN-MD?style=social"></a>
-<a href="https://github.com/Kavishan0/KAVISHAN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kavishan0/KAVISHAN-MD?label=Watching&style=social"></a>
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkavisham0%2FKAVISHAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/kaviahan0/KAVISHAN-MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/kavishan0/KAVISHAN-MD?style=social)
   
 ***
 
