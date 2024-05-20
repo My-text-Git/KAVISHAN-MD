@@ -57,6 +57,3 @@
 |**[`cyber kaviyh`](https://github.com/kavishan0)
 
 ***
-
-### THANKS TO:
-- [***kavishan***](https://github.com/Kavishan0) For Providing a Base of **KAVISHAN-MD**
