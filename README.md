@@ -51,12 +51,6 @@
 
 ***
 
-
-### CONTRIBUTIONS 
--Contributions to KAVISHAN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-***
-
 ### LICENSE 
 -The KAVISHAN-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
