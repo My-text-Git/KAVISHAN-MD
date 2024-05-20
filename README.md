@@ -50,13 +50,6 @@
 
 
 ***
-
-### LICENSE 
--The KAVISHAN-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-
--Enjoy the diverse features of the KAVISHAN-Md  to enhance your conversations and make your WhatsApp experience more interesting!
-
-***
 ## 👑 **`KAVISHAN-MD BOT OWNERS,`** 👑
 
 
