@@ -24,7 +24,7 @@
 <a href="https://kavishan-md-official.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
-<a href="https://kavishan-md-official.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://kavishan-qr-2.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 
@@ -34,17 +34,8 @@
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
-[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
-
-[`Deploy on Koyeb`](https://app.koyeb.com/)
-
-[`Deploy on Mogenius`](https://studio.mogenius.com/)
-
 [`Deploy on heroku`](https://dashboard.heroku.com/new?template=https://github.com/Kavishan0/KAVISHAN-MD)
 
-[`Deploy on Replit`](https://replit.com)
-
-[`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
 
